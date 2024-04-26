@@ -4085,7 +4085,7 @@
 /fr/docs/Web/API/WindowOrWorkerGlobalScope/crossOriginIsolated	/fr/docs/Web/API/crossOriginIsolated
 /fr/docs/Web/API/WindowOrWorkerGlobalScope/fetch	/fr/docs/Web/API/fetch
 /fr/docs/Web/API/WindowOrWorkerGlobalScope/indexedDB	/fr/docs/Web/API/Window/indexedDB
-/fr/docs/Web/API/WindowOrWorkerGlobalScope/isSecureContext	/fr/docs/Web/API/isSecureContext
+/fr/docs/Web/API/WindowOrWorkerGlobalScope/isSecureContext	/fr/docs/Web/API/Window/isSecureContext
 /fr/docs/Web/API/WindowOrWorkerGlobalScope/origin	/fr/docs/Web/API/origin
 /fr/docs/Web/API/WindowOrWorkerGlobalScope/queueMicrotask	/fr/docs/Web/API/queueMicrotask
 /fr/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout	/fr/docs/Web/API/setTimeout
@@ -4151,6 +4151,7 @@
 /fr/docs/Web/API/event.defaultPrevented	/fr/docs/Web/API/Event/defaultPrevented
 /fr/docs/Web/API/event.preventDefault	/fr/docs/Web/API/Event/preventDefault
 /fr/docs/Web/API/indexedDB	/fr/docs/Web/API/Window/indexedDB
+/fr/docs/Web/API/isSecureContext	/fr/docs/Web/API/Window/isSecureContext
 /fr/docs/Web/API/navigator.doNotTrack	/fr/docs/Web/API/Navigator/doNotTrack
 /fr/docs/Web/API/notification/Using_Web_Notifications	/fr/docs/Web/API/Notifications_API/Using_the_Notifications_API
 /fr/docs/Web/API/notification/onclick	/fr/docs/Web/API/Notification/click_event
